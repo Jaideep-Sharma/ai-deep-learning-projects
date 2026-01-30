@@ -1,0 +1,8 @@
+CustomerID,Age,Gender,Tenure,MonthlyCharges,Contract,PaymentMethod,TotalCharges
+1,56,Female,68,147.58,Two year,Bank transfer,10052.03
+2,69,Male,32,22.54,Month-to-month,Mailed check,686.78
+3,46,Female,10,52.47,One year,Electronic check,537.88
+4,32,Male,22,109.67,Month-to-month,Mailed check,2390.04
+5,60,Female,54,130.98,Month-to-month,Credit card,7081.28
+6,25,Female,29,111.55,Month-to-month,Credit card,3167.13
+7,78,Female,20,63.23,One year,Electronic check,1307.22
