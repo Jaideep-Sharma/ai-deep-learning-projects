@@ -1,7 +1,14 @@
-pandas
-numpy
-scikit-learn
-tensorflow
-joblib
-pyarrow
-streamlit
+# TensorFlow MUST be pip
+tensorflow==2.15.1
+
+# Pin numpy to TF-compatible ABI
+numpy==1.26.4
+
+pandas>=2.0,<3.0
+scikit-learn==1.4.2
+joblib>=1.3,<2.0
+
+# PyArrow is the main source of DLL failures
+pyarrow==14.0.2
+
+streamlit>=1.30,<2.0
