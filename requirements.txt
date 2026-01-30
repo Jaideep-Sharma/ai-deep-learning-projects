@@ -1,6 +1,3 @@
-# TensorFlow MUST be pip
-tensorflow==2.15.1
-
 # Pin numpy to TF-compatible ABI
 numpy==1.26.4
 
