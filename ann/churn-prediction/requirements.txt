@@ -4,3 +4,4 @@ scikit-learn
 tensorflow
 joblib
 pyarrow
+streamlit
