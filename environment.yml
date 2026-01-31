@@ -1,0 +1,13 @@
+name: churn
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.26.*
+  - pandas
+  - scikit-learn=1.4.*
+  - pyarrow=14.*
+  - streamlit
+  - pip
+  - pip:
+      - tensorflow>=2.15,<2.18
